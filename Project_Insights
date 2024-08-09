@@ -1,0 +1,21 @@
+#CODING SAMURAI
+#PROJECT INSIGHTS
+
+Data Insights
+
+From the analysis of the `listings.csv` dataset, several key insights were uncovered as :
+
+1.Popular Neighborhoods:
+   -The Port and West Cambridge emerged as some of the most popular neighborhoods, with a higher number of listings and reviews. These areas seem to attract more guests, potentially due to their proximity to major attractions or educational institutions.
+
+2.Listing Prices:
+   - Room Type Influence: Entire homes/apartments generally command higher prices compared to private rooms. This is expected as entire properties offer more space and privacy.
+   - Neighborhood Influence: Properties located in premium neighborhoods, such as **The Port**, tend to have higher listing prices. Proximity to key city areas likely drives up demand and, consequently, prices.
+
+3.Review Count Correlation:
+   - Properties with a higher number of reviews often have higher prices. This suggests that well-reviewed properties may have a reputation that allows hosts to charge more.
+
+4.Availability Trends:
+   - Listings with higher availability may either be less popular or strategically priced lower to attract longer bookings.
+
+In Conclusion,These insights indicate that location, room type, and the reputation of a property are significant factors influencing listing prices. Hosts in popular neighborhoods or with well-reviewed properties might leverage this by adjusting their pricing strategies accordingly.
